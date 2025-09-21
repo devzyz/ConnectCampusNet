@@ -1,0 +1,10 @@
+#配置文件
+config.yml
+
+#打包生成的文件
+build/
+dist/
+main.spec
+
+#ide项目文件
+.idea/
