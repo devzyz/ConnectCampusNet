@@ -8,3 +8,7 @@ main.spec
 
 #ide项目文件
 .idea/
+
+#浏览器驱动文件
+chromedriver.exe
+
